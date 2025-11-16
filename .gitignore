@@ -1,0 +1,11 @@
+.DS_Store
+Crime_Data_from_2020_to_Present.csv
+DataCleaned.csv
+dashboard.ipynb
+requirements.txt
+testing.ipynb
+DataSample_50.csv
+LA_Crime_Data.sqlite
+data_cleaning.ipynb
+project_3_presentation.pdf
+/gitignore_files
